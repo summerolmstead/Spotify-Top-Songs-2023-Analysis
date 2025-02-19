@@ -1,2 +1,2 @@
 # Spotify-Top-Songs-2023-Analysis
-Top Spotify Songs of 2023 
+Using a dataset of the Top Spotify Songs of 2023, I create a stacked bar chart, clustered bar chart, and pair plots to showcase 6 different attributes of each item. The attributes of energy, danceability, valence, liveliness, acousticness, and speechiness, expressed as percentages of their presence in the song, reveal trends from the data analysis that help identify the ideal balance for a hit song. 
